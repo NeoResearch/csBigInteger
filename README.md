@@ -5,6 +5,6 @@ Currently, these are the intended developments:
 
 * csBigInteger.js: [javascript](https://github.com/neoresearch/csBigInteger.js)
 * csBigInteger.cpp: [c++/portable](https://github.com/neoresearch/csBigInteger.cpp)
-* csBigInteger.py: python (still on draft)
+* csBigInteger.py: [python](https://github.com/neoresearch/csBigInteger.py)
 
 MIT LICENSE
